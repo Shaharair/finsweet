@@ -16,7 +16,7 @@ export default {
     },
     backgroundImage: {
       'ban':"url(./src/assets/banner.jpg)",
-      'are' : "url(./src/assets/around.png)"
+      'are':"url(./src/assets/around.png)"
     },
   },
   plugins: [],
