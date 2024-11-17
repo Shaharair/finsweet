@@ -12,8 +12,8 @@ export default {
       Container: "1280px"
     },
     backgroundImage: {
-      'ban': "url(./src/assets/banner.jpg)",
-      'are': "url(./src/assets/around.png)"
+      'ban': "url('./src/assets/banner.jpg')",
+      'are': "url('./src/assets/around.png')"
     },
     fontFamily: {
       'Roboto': ['Roboto', 'sans-serif',]
